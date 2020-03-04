@@ -12,3 +12,32 @@ div {
 
 
 /* Add your styles for each box BELOW this line */
+
+#box01 {
+  background-color: rgba(28,10,167,71);
+}
+
+#box02 {
+  background-color: rgba(28,104,167,0.08);
+
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+#box3 {
+  background-color: rgba(28,104,167,0.06);
+  
+  margin: 20px;
+}
+
+#box4 {
+  background-color: rgba(28,104,167,0.04);
+  
+  margin: 20px;
+  
+  border: 2px dotted rgba(28,104,167,1);
+  
+  padding: 20px;
+}
