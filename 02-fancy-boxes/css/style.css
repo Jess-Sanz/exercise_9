@@ -11,3 +11,59 @@ div {
 
 
 /* Add your styles for each box below this line */
+
+
+#box01 {
+  background-color: rgba(28,10,167,71);
+  
+  margin:20px
+}
+
+#box02 {
+  background-color: rgba(53,127,187,1);
+  
+  border-top: 10px;
+  border-right: 20px;
+  border-bottom: 10px;
+  border-left: 20px;
+  
+  border-width: 2px;
+}
+
+#box03 {
+  background-color: rgba(92,148,193,1);
+  
+  border-top: 20px;
+  border-right: 10px;
+  border-bottom: 20px;
+  border-left: 10px;
+  
+  border-width: 2px;
+  
+  margin:20px
+}
+
+#box04 {
+  background-color: rgba(120,173,217,1);
+  
+  border-top: 20px;
+  border-right: 20px;
+  border-bottom: 10px;
+  border-left: 10px;
+   
+  border-width: 2px;
+  
+  margin:20px
+}
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  
+  
